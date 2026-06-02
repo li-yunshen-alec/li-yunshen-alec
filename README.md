@@ -7,11 +7,11 @@
 ### what i've shipped
 
 🔗 [**cuttr**](https://cuttrai.app) — ai-powered haircut recommendations (ios + android) ·
-15,000 users · 4.5★ rating · profitable
+30,000 users · 4.7★ app store rating · profitable
 `react native` `expo` `figma`
 
 🔗 [**cerevolt**](https://cerevolt.com) — context-based site & app blocker ·
 top 10% of y combinator applicants
 `electron` `next.js` `chrome extension`
 
-**→ [portfolio](https://portfolio-alec-li.vercel.app/)**
+**→ [portfolio](https://alecli.dev/)**
